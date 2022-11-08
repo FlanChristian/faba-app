@@ -6,9 +6,9 @@ Installation de Git sur votre machine.
 Installation de Yarn.
 
 
-<strong>Comment le lancer :</strong>
+<strong>Comment le lancer </strong>
 
-Ouvrez CMD et suivez ces commande
+Ouvrez CMD et suivez ces commandes :
 
 git clone https://github.com/FlanChristian/faba-app
 
