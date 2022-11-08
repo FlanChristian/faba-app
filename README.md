@@ -1,4 +1,9 @@
 # faba-app
+<strong>Prérequis :</strong>
+
+Installation de Git sur votre machine.
+
+
 
 <strong>Comment le lancer :</strong>
 
