@@ -3,7 +3,7 @@
 
 Installation de Git sur votre machine.
 
-Installation de Yarn.
+Installation de yarn.
 
 
 <strong>Comment le lancer </strong>
