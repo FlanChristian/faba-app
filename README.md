@@ -10,7 +10,7 @@ Installation de Yarn.
 
 Ouvrez CMD et suivez ces commandes :
 
-git clone https://github.com/FlanChristian/faba-app
+git clone https://github.com/FlanChristian/faba-app.git
 
 cd faba-app
 
